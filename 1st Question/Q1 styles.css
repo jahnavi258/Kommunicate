@@ -1,0 +1,54 @@
+.try {
+ border-radius: 25px;
+ background-color: #2DD35C;
+ color: white;
+ border: None;
+ height: 36px;
+ cursor: pointer;
+ 
+}
+.book {
+ border-radius: 25px;
+ background-color: white;
+ color: #5553b7;
+ height: 36px;
+ border-color: #5553b7;
+ outline: none;
+ cursor: pointer;
+}
+.commerce {
+ color: #5553b7;
+}
+.text{
+ padding: 40px;
+ width:500px;
+ height:150px;
+ border:3px solid #2DD35C; 
+ position: relative;
+ text-align: left;
+ border-top-right-radius: 200px;
+ border-bottom-right-radius: 25px;
+ border-left-color: #000;
+ }
+body {
+ padding-left: 200px;
+ padding-top: 80px;
+}
+.text2 {
+ border-left: 3px solid #000;
+ height: 300px;
+}
+.hello {
+ padding: 40px;
+ width:300px;
+ height:50px;
+ border:3px solid #cdb0f7; 
+ position: absolute;
+ text-align: left;
+ border-top-left-radius: 200px;
+ border-bottom-left-radius: 25px;
+ background-color: #cdb0f7;
+ top: 150px;
+ right: 600px;
+ opacity: 95%;
+}
